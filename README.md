@@ -11,7 +11,6 @@ Process ID: 6132
 PSVersion: 5.1.16299.431
 Powershell: 6.0
 Powershell Rocks!!!
-PSEdition: Desktop
 PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.16299.431
 BuildVersion: 10.0.16299.431
 CLRVersion: 4.0.30319.42000
