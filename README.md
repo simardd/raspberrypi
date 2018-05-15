@@ -91,5 +91,4 @@ PS C:\Users\Joanne> Joanne
 PS C:\Users\Joanne> Stop-Transcript
 **********************
 Windows PowerShell transcript end
-End time: 20180510185817
 **********************
