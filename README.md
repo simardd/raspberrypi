@@ -16,6 +16,7 @@ BuildVersion: 10.0.16299.431
 CLRVersion: 4.0.30319.42000
 WSManStackVersion: 3.0
 PSRemotingProtocolVersion: 2.3
+Jean-Mark is doing a Preentation in 5 minutes!!!
 SerializationVersion: 1.1.0.1
 **********************
 Transcript started, output file is C:\Users\Joanne\Documents\PowerShell_transcript.CCDEVENVRDP3.J6icPSeX.20180510184837.txt
